@@ -65,10 +65,7 @@ node dist/menu-ejercicios.js
 
 ## 👨‍💻 Autor
 
-**Curso:** 1383 - Programación Orientada a Objetos  
-**Sección:** A  
-**Institución:** Universidad de Oriente  
-**Instructor:** Ing. William José Morales Berrios
+U20220105
 
 ## 📅 Fecha
 
